@@ -1,0 +1,12 @@
+# Arduino build folders
+build/
+bin/
+
+# Compiled files
+*.hex
+*.elf
+*.o
+
+# Desktop folders
+.DS_Store
+Thumbs.db
